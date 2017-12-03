@@ -62,7 +62,7 @@ const Spacer = styled.div`
 const Header = styled.h1`
   display: flex;
   justify-content: center;
-  color: orangered;
+  color: teal;
 `;
 
 const Body = styled.div`

@@ -61,7 +61,7 @@ const Mybutton = styled.div`
   height: 50px;
   width: 150px;
   &:hover {
-    background-color: rgba(0, 120, 255, 0.8);
+    background-color: dodgerblue;
     border-right: 2px solid black;
     border-left: 2px solid black;
     border-bottom: 2px solid black;
